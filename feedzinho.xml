@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+<channel>
+  <title>Feed lista</title>
+  <link>http://agenciamentoria.alboompro.com/links-url</link>
+  <description>Feed com links</description>
+  <item>
+    <title>Link 1</title>
+    <link>http://agenciamentoria.alboompro.com/links-url</link>
+    <guid>http://agenciamentoria.alboompro.com/links-url</guid>
+    <pubDate>Mon, 02 Dec 2025 00:00:00 +0000</pubDate>
+  </item>
+</channel>
+</rss>
