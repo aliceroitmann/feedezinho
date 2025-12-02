@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
   <title>Feed lista</title>
@@ -8,7 +8,7 @@
     <title>Link 1</title>
     <link>http://agenciamentoria.alboompro.com/links-url</link>
     <guid>http://agenciamentoria.alboompro.com/links-url</guid>
-    <pubDate>Mon, 02 Dec 2025 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 02 Dec 2025 00:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
